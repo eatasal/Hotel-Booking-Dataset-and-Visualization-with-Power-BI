@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on analyzing and visualizing hotel booking data using Power BI. The aim is to provide actionable insights into booking trends, customer preferences, and income analysis. The analysis covers various aspects such as booking trends over time, guest demographics, and hotel preferences.
 
-  ![Hotel Booking Dashboard](https://raw.githubusercontent.com/eatasal/Hotel-Booking-Dataset-and-Visualization-with-Power-BI/main/Hotel%20Bookings_Overview.PNG)
+![Hotel Booking Dashboard](https://raw.githubusercontent.com/eatasal/Hotel-Booking-Dataset-and-Visualization-with-Power-BI/main/Hotel%20Bookings_Overview.PNG)
 
 ## Objectives
 
@@ -20,14 +20,22 @@ This project focuses on analyzing and visualizing hotel booking data using Power
 #### Hotel Preferences:
 - Identified trends in hotel preferences across daily, monthly, weekday patterns, nationality, and market segments.
 
+![Hotel Preferences Dashboard](https://raw.githubusercontent.com/eatasal/Hotel-Booking-Dataset-and-Visualization-with-Power-BI/main/Hotel%20Pereferences.PNG)
+
 #### Booking Trends:
 - Analyzed hotel booking patterns over different periods (daily, monthly, yearly), identified peak booking seasons, and evaluated agent performance.
+
+![Hotel Reservations Dashboard](https://raw.githubusercontent.com/eatasal/Hotel-Booking-Dataset-and-Visualization-with-Power-BI/main/Reservations.PNG)
 
 #### Customer Demographics:
 - Examined guest demographics, including age, nationality, customer type, meal preferences, and room preferences.
 
+![Customer Demographics Dashboard](https://raw.githubusercontent.com/eatasal/Hotel-Booking-Dataset-and-Visualization-with-Power-BI/main/Customers.PNG)
+
 #### Revenue Analysis:
 - Visualized revenue distribution across different yearly and monthly periods, market segments, and deposit types.
+
+![Revenue Analysis Dashboard](https://raw.githubusercontent.com/eatasal/Hotel-Booking-Dataset-and-Visualization-with-Power-BI/main/Income_Analysis.PNG)
 
 ## Dataset
 The dataset used for this project includes information about hotel bookings, such as booking dates, customer details, room types, and booking sources. The dataset is available on Kaggle and can be accessed through the following link:
@@ -45,5 +53,4 @@ To explore the analysis and visualizations, follow these steps:
 4. Use the Power BI service to publish and share your reports if needed.
 
 ## Contact
-For any questions or further information, feel free to reach out via email or visit my [LinkedIn](#).
-
+For any questions or further information, fe
