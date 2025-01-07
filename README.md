@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on analyzing and visualizing hotel booking data using Power BI. The aim is to provide actionable insights into booking trends, customer preferences, and income analysis. The analysis covers various aspects such as booking trends over time, guest demographics, and hotel preferences.
 
-![Hotel Booking Dashboard]([Hotel Bookings_Overview.PNG](https://github.com/eatasal/Hotel-Booking-Dataset-and-Visualization-with-Power-BI/blob/main/Hotel%20Bookings_Overview.PNG))
+  ![Hotel Booking Dashboard](https://raw.githubusercontent.com/eatasal/Hotel-Booking-Dataset-and-Visualization-with-Power-BI/main/Hotel%20Bookings_Overview.PNG)
 
 ## Objectives
 
